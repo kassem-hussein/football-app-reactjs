@@ -1,0 +1,24 @@
+
+.m-btn-to-modal {
+  display: none;
+}
+.m-dis {
+  display: block;
+}
+.filter {
+  /* align-items-center me-2 */
+  display: flex;
+  align-items: center;
+  margin-right: 2px;
+}
+@media (max-width: 900px) {
+  .m-dis {
+    display: none;
+  }
+  .filter {
+    display: none;
+  }
+  .m-btn-to-modal {
+    display: block;
+  }
+}

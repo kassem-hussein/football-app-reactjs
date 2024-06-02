@@ -1,0 +1,21 @@
+.p_messi{
+      width: 300px;
+      height: 300px;
+      border-radius: 50%;
+}
+.f-section{
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      margin-top:100px;
+}
+#k-live{
+      color:#FBCA14;
+}
+
+.f-section-t{
+     margin-top:50px;
+}
+.f-section-t-h{
+      font-size:40px;
+}

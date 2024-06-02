@@ -1,0 +1,14 @@
+#k-live{
+      color:#FBCA14;
+}
+.container{
+    width: 80%;
+    display: flex;
+    justify-content: space-between !important;
+}
+@media (min-width: 992px){
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: end;
+ }
+}

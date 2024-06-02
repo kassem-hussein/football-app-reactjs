@@ -1,0 +1,17 @@
+.Transfer {
+  width: 500px;
+  height: 200px;
+  margin:1px;
+  border-radius: 10px;
+  background-color:black;
+  color:white;
+  font-weight: bold;
+}
+.T-S-1,.T-S-2,.T-S-3{
+      width: 33.3%;
+}
+@media (max-width:676px) {
+      .Transfer {
+            width: 100%;
+      }
+}

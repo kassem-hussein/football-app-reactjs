@@ -1,0 +1,5 @@
+export {default as FIRST_SECTION} from './home/first_section/first_section'
+export {default as SECUND_SECTION} from './home/secund_section/Secund_Section'
+export {default as THARD_SECTION} from './home/thard_section/Thard_section'
+export {default as MatchLive}  from './home/MatchesCom/MatchLive'
+export {default as NEWC} from './news/Newscom'

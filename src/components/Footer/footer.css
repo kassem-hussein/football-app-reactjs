@@ -1,0 +1,19 @@
+#c-text,#c-input{
+      border-radius: 10px;
+      margin: 5px 0;
+      padding: 5px;
+      outline: none;
+      border: none;
+}
+#footer{
+      color: white;
+      justify-content: center !important;
+}
+#c-form{
+      width: 50%;
+}
+@media (max-width:700px) {
+      #c-form{
+            width: 80%;
+      }
+}
